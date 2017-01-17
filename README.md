@@ -1,4 +1,1 @@
-<<<<<<< .mine
-# TestRepo
-=======
 # TestRepo b
